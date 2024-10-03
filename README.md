@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irnandananda&label=Profile%20views&color=0e75b6&style=flat" alt="irnandananda" /> </p>
 
 -👩🏻‍🎓  Currently learning Information Engineering at Stikma College, Malang Indonesia
-- 👨‍💻 Studying Fullstack Golang & AI in [https://camp.ruangguru.com/](https://camp.ruangguru.com/)
+-👨‍💻  Studying Fullstack Golang & AI in [https://camp.ruangguru.com/](https://camp.ruangguru.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
