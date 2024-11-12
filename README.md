@@ -4,7 +4,7 @@
 # 💫 About Me:
 👨🏻‍💻Teenagers learning about technology <br/>
 🧑🏻‍🎓Currently learning programming <br/>
-💻Learn programming at [Here](https://camp.ruangguru.com) <br/>
+💻I learn programming at [Here](https://camp.ruangguru.com) <br/>
 
 
 # 💻 Tech Stack:
