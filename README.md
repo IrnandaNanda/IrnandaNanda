@@ -30,20 +30,4 @@
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
 </p>
 
-<style>
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: orange }
-  }
-  h1 span {
-    border-right: 2px solid orange;
-    white-space: nowrap;
-    overflow: hidden;
-    display: inline-block;
-    width: 0;
-  }
-</style>
+
