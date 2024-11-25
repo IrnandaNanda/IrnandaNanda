@@ -10,7 +10,7 @@
 # 💫 About Me:
 - 👨🏻‍💻 Teenagers learning about technology  
 - 🧑🏻‍🎓 Currently learning programming  
-- 💻 I learn programming at [Here](https://camp.ruangguru.com), [Here](https://myskill.id/)
+- 💻 I learn programming at [Here](https://camp.ruangguru.com), [Here](https://myskill.id/) And [Here](https://www.stikma.ac.id/)
 
 # 💻 Tech Stack:
 <p>
