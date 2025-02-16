@@ -9,15 +9,19 @@
 - 👨🏻‍💻 Teenager learning about technology  
 - 🧑🏻‍🎓 Currently learning programming  
 - 💻 I learn programming at:  
-  - [Ruangguru](https://camp.ruangguru.com)  
-  - [MySkill](https://myskill.id/)  
-  - [STIKMA](https://www.stikma.ac.id/)
+  - [Here](https://camp.ruangguru.com)  
+  - [Here](https://www.dicoding.com/)  
+  - [Here](https://www.stikma.ac.id/)
 
 ## 💻 Tech Stack
-<p align="left">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,go,git,github,mysql,postgres" />
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
   <a href="https://github.com/IrnandaNanda">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IrnandaNanda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <br/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IrnandaNanda&layout=compact&theme=algolia"/>
   </a>
 </p>
