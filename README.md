@@ -9,14 +9,17 @@
 - 👨🏻‍💻 Teenager learning about technology  
 - 🧑🏻‍🎓 Currently learning programming  
 - 💻 I learn programming at:  
-  - [Here](https://camp.ruangguru.com)  
-  - [Here](https://www.dicoding.com/)  
-  - [Here](https://www.stikma.ac.id/)
+  - [Ruangguru](https://camp.ruangguru.com)  
+  - [Dicoding](https://www.dicoding.com/)  
+  - [STIKMA](https://www.stikma.ac.id/)
 
 ## 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,go,git,github,mysql,postgres" />
-</p>
+| Frontend | Backend | Database |
+|----------|---------|----------|
+| <img src="https://skillicons.dev/icons?i=html" width="50"/> HTML | <img src="https://skillicons.dev/icons?i=nodejs" width="50"/> Node.js | <img src="https://skillicons.dev/icons?i=mysql" width="50"/> MySQL |
+| <img src="https://skillicons.dev/icons?i=css" width="50"/> CSS | <img src="https://skillicons.dev/icons?i=go" width="50"/> Golang | <img src="https://skillicons.dev/icons?i=postgres" width="50"/> PostgreSQL |
+| <img src="https://skillicons.dev/icons?i=js" width="50"/> JavaScript | <img src="https://skillicons.dev/icons?i=express" width="50"/> Express.js | <img src="https://skillicons.dev/icons?i=mongodb" width="50"/> MongoDB |
+| <img src="https://skillicons.dev/icons?i=react" width="50"/> React | <img src="https://skillicons.dev/icons?i=git" width="50"/> Git | <img src="https://skillicons.dev/icons?i=firebase" width="50"/> Firebase |
 
 ## 📊 GitHub Stats
 <p align="center">
