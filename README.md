@@ -8,7 +8,7 @@
 ## 💫 About Me
 - 👨🏻‍💻 Teenager learning about technology  
 - 🧑🏻‍🎓 Currently learning programming  
-- 💻 I learn programming at: [Here]([https://camp.ruangguru.com](https://www.ruangguru.com/program/kampus-merdeka)), [Here](https://www.dicoding.com/), & [Here](https://www.stikma.ac.id/)
+- 💻 I learn programming at: [Here](https://www.ruangguru.com/program/kampus-merdeka), [Here](https://www.dicoding.com/), & [Here](https://www.stikma.ac.id/)
 
 ## 📊 GitHub Stats
 <p align="center">
